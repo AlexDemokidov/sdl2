@@ -1,0 +1,6 @@
+.vscode/
+bin/
+obj/
+*.dll
+*.exe
+pg_data/

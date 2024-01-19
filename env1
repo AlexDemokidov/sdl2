@@ -1,0 +1,4 @@
+INTERVAL=5
+USERNAME=user
+PASSWORD=userpass
+LOG_FILE_PATH=app.log

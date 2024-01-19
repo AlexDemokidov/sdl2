@@ -1,0 +1,293 @@
+01/19/2024 17:54:37:Error: Failed to connect to 192.168.32.4:5432
+01/19/2024 17:54:43:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 17:54:48:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 17:54:53:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 17:54:58:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 17:55:03:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 17:55:08:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 17:55:13:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 17:55:18:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 17:55:23:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 17:55:28:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 17:55:33:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 17:55:38:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 17:55:43:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 17:55:48:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 17:55:53:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 17:55:58:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 17:56:03:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 17:56:08:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 17:56:13:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 17:56:18:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 17:56:23:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 17:56:28:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 17:56:33:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 17:56:38:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 17:56:43:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 17:56:48:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 17:56:53:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 17:56:58:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 17:57:03:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 17:57:08:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 17:57:13:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 17:57:18:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 17:57:23:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 17:57:28:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 17:57:33:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 17:57:38:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 17:57:43:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 17:57:48:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 17:57:53:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 17:57:58:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 17:58:03:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 17:58:08:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 17:58:13:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 17:58:18:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 17:58:23:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 17:58:28:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 17:58:33:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 17:58:38:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 17:58:43:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 17:58:48:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 17:58:53:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 17:58:58:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 17:59:03:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 17:59:08:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 17:59:13:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 17:59:18:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 17:59:23:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 17:59:28:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 17:59:33:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 17:59:38:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 17:59:43:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 17:59:48:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 17:59:53:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 17:59:58:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 18:00:03:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 18:00:08:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 18:00:13:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 18:00:18:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 18:00:23:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 18:00:28:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 18:00:33:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 18:00:38:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 18:00:43:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 18:00:48:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 18:00:53:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 18:00:58:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 18:01:03:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 18:01:08:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 18:01:13:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 18:01:18:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 18:01:23:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 18:01:28:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 18:01:33:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 18:01:38:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 18:01:43:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 18:01:48:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 18:01:53:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 18:01:58:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 18:02:03:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 18:02:08:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 18:02:13:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 18:02:18:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 18:02:23:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 18:02:28:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 18:02:33:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 18:02:38:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 18:02:43:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 18:02:48:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 18:02:53:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 18:02:58:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 18:03:03:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 18:03:08:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 18:03:13:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 18:03:18:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 18:03:23:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 18:03:28:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 18:03:33:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 18:03:38:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 18:03:43:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 18:03:48:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 18:03:53:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 18:03:58:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 18:04:03:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 18:04:08:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 18:04:13:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 18:04:18:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 18:04:23:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 18:06:02:Error: Failed to connect to 192.168.48.2:5432
+01/19/2024 18:06:07:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 18:06:12:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 18:06:17:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 18:06:22:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 18:06:27:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 18:06:32:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 18:06:37:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 18:06:42:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 18:06:47:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 18:06:52:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 18:06:57:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 18:07:02:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 18:07:07:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 18:07:12:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 18:07:17:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 18:07:22:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 18:07:27:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 18:07:32:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 18:07:37:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 18:07:42:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 18:07:47:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 18:07:52:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 18:07:57:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 18:08:02:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 18:08:07:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 18:08:12:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 18:08:31:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 18:08:33:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 18:08:35:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 18:08:37:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 18:08:39:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 18:08:41:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 18:08:43:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 18:08:45:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 18:08:47:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 18:08:49:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 18:08:51:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 18:08:53:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 18:08:55:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 18:08:57:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 18:08:59:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 18:09:01:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 18:09:03:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 18:09:05:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 18:09:07:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 18:09:09:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 18:09:11:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 18:09:13:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 18:09:15:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 18:09:17:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 18:09:19:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 18:09:21:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 18:09:23:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 18:09:25:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 18:09:27:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 18:09:29:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 18:09:31:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 18:09:33:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 18:09:35:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 18:09:37:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 18:09:39:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 18:09:41:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/19/2024 18:09:49:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/19/2024 18:09:52:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/19/2024 18:09:55:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/19/2024 18:09:58:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/19/2024 18:10:01:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/19/2024 18:10:04:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/19/2024 18:10:07:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/19/2024 18:10:10:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/19/2024 18:10:13:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/19/2024 18:10:16:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/19/2024 18:10:19:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/19/2024 18:10:22:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/19/2024 18:10:25:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/19/2024 18:10:28:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/19/2024 18:10:31:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/19/2024 18:10:34:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/19/2024 18:10:37:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/19/2024 18:10:40:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/19/2024 18:10:43:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/19/2024 18:10:46:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/19/2024 18:10:49:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/19/2024 18:10:52:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/19/2024 18:10:56:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/19/2024 18:10:59:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/19/2024 18:11:02:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/19/2024 18:11:05:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/19/2024 18:11:08:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/19/2024 18:11:11:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/19/2024 18:11:14:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/19/2024 18:11:17:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/19/2024 18:11:20:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/19/2024 18:11:23:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/19/2024 18:11:26:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/19/2024 18:11:29:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/19/2024 18:11:32:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/19/2024 18:11:35:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/19/2024 18:11:38:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/19/2024 18:11:41:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/19/2024 18:11:44:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/19/2024 18:11:47:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/19/2024 18:11:50:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/19/2024 18:11:53:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/19/2024 18:11:56:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/19/2024 18:11:59:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/19/2024 18:12:02:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/19/2024 18:12:05:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/19/2024 18:12:08:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/19/2024 18:12:11:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/19/2024 18:12:14:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/19/2024 18:12:17:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/19/2024 18:12:20:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/19/2024 18:12:23:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/19/2024 18:12:26:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/19/2024 18:12:29:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/19/2024 18:12:32:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/19/2024 18:12:35:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/19/2024 18:12:38:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/19/2024 18:12:41:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/19/2024 18:12:44:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/19/2024 18:12:47:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/19/2024 18:12:50:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/19/2024 18:12:53:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/19/2024 18:12:56:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/19/2024 18:12:59:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/19/2024 18:13:02:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/19/2024 18:13:05:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/19/2024 18:13:08:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/19/2024 18:13:11:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/19/2024 18:13:14:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/19/2024 18:13:17:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/19/2024 18:13:20:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/19/2024 18:13:23:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/19/2024 18:13:26:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/19/2024 18:13:29:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/19/2024 18:13:32:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/19/2024 18:13:35:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/19/2024 18:13:38:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/19/2024 18:13:41:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/19/2024 18:13:44:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/19/2024 18:13:47:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/19/2024 18:13:50:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/19/2024 18:13:54:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/19/2024 18:13:57:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/19/2024 18:14:00:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/19/2024 18:14:03:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/19/2024 18:14:06:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/19/2024 18:14:09:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/19/2024 18:14:12:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/19/2024 18:14:15:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/19/2024 18:14:18:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/19/2024 18:14:21:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/19/2024 18:14:24:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/19/2024 18:14:27:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/19/2024 18:14:30:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/19/2024 18:14:33:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/19/2024 18:14:36:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/19/2024 18:14:39:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/19/2024 18:14:42:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/19/2024 18:14:45:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/19/2024 18:14:48:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/19/2024 18:14:51:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/19/2024 18:14:54:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/19/2024 18:14:57:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/19/2024 18:15:00:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/19/2024 18:15:03:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/19/2024 18:15:06:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/19/2024 18:15:09:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/19/2024 18:15:12:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/19/2024 18:15:15:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/19/2024 18:15:18:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/19/2024 18:15:21:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/19/2024 18:15:24:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)

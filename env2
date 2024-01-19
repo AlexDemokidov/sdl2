@@ -1,0 +1,4 @@
+INTERVAL=2
+USERNAME=postgres
+PASSWORD=password
+LOG_FILE_PATH=app.log

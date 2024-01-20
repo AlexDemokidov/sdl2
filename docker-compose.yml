@@ -9,7 +9,7 @@ services:
     build:
       context: ./dotnet/PgConnect/
     env_file:
-      - ./env3
+      - ./env1
     volumes:
       - ./app.log:/app/app.log
 

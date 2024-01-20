@@ -1,43 +1,68 @@
 ﻿/////////////////////Pinger///////////////////
 using Npgsql;
 using System;
+
+// Переменные окружения
+string intervalStr = Environment.GetEnvironmentVariable("INTERVAL");
+string username = Environment.GetEnvironmentVariable("USERNAME");
+string password = Environment.GetEnvironmentVariable("PASSWORD");
+
+string logFilePath = Environment.GetEnvironmentVariable("LOG_FILE_PATH");
+
+// Парсинг значения интервала (в секундах)
+double interval;
+if (!double.TryParse(intervalStr, out interval))
+{
+    interval = 300; // Значение по умолчанию, если интервал не удалось распарсить
+}
+
+// Чтение конфигурационного файла
+StreamReader sr = new StreamReader("sdl1.conf");
+var connectionStringFromConf = sr.ReadLine();
+
+Npgsql.NpgsqlConnectionStringBuilder csb = new Npgsql.NpgsqlConnectionStringBuilder(connectionStringFromConf);
+
+// Замена в строке подключения пользователя и пароля
+csb.Username = username;
+csb.Password = password;
+
+string connectionString = csb.ToString();
+
+var tasklist = new List<Task>();
+
 while (true)
 {
-    // Переменные окружения
-    string intervalStr = Environment.GetEnvironmentVariable("INTERVAL");
-    string username = Environment.GetEnvironmentVariable("USERNAME");
-    string password = Environment.GetEnvironmentVariable("PASSWORD");
 
-    // Парсинг значения интервала (в секундах)
-    double interval;
-    if (!double.TryParse(intervalStr, out interval))
+    lock (tasklist)
     {
-        interval = 300; // Значение по умолчанию, если интервал не удалось распарсить
-    }
+        tasklist.RemoveAll(x => x.IsCompleted || x.IsFaulted);
 
-    // Чтение конфигурационного файла
-    StreamReader sr = new StreamReader("sdl1.conf");
-    var connectionStringFromConf = sr.ReadLine();
-
-    Npgsql.NpgsqlConnectionStringBuilder csb = new Npgsql.NpgsqlConnectionStringBuilder(connectionStringFromConf);
-
-    // Замена в строке подключения пользователя и пароля
-    csb.Username = username;
-    csb.Password = password;
-
-    string connectionString = csb.ToString();
-
-    await Task.Run(() =>
+        if (tasklist.Count > 0)
         {
-            DoHeartbeat(connectionString);
-        });
+            using (StreamWriter logWriter = new StreamWriter(logFilePath, true))
+            {
+                // Сообщение записывается в файл
+                logWriter.WriteLine($"{DateTime.Now}:Task is paused");
+            }
+            // Выводит сообщение в stdout
+            Console.WriteLine($"{DateTime.Now}:Task is paused");
+        }
+        tasklist.Clear();
+
+        var task = Task.Run(() =>
+            {
+                DoHeartbeat(connectionString);
+            });
+
+        tasklist.Add(task);
+
+    }
 
     await Task.Delay(TimeSpan.FromSeconds(interval));
 }
 
-static void DoHeartbeat(object state)
+void DoHeartbeat(object state)
 {
-    string logFilePath = Environment.GetEnvironmentVariable("LOG_FILE_PATH");
     string connectionString = (string)state;
 
     try

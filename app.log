@@ -291,3 +291,282 @@
 01/19/2024 18:15:18:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
 01/19/2024 18:15:21:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
 01/19/2024 18:15:24:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/20/2024 08:08:52:Error: Failed to connect to 192.168.96.3:5432
+01/20/2024 08:08:55:Error: 57P03: система баз данных запускается
+01/20/2024 08:08:58:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/20/2024 08:09:01:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/20/2024 08:09:04:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/20/2024 08:09:07:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/20/2024 08:09:10:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/20/2024 08:09:13:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/20/2024 08:09:16:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/20/2024 08:09:19:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/20/2024 08:09:22:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/20/2024 10:13:11:Error: 57P03: система баз данных запускается
+01/20/2024 10:13:14:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/20/2024 10:13:17:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/20/2024 10:13:20:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/20/2024 10:13:23:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/20/2024 10:13:26:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/20/2024 10:13:29:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/20/2024 10:13:32:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/20/2024 10:13:35:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/20/2024 10:13:38:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/20/2024 10:13:41:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/20/2024 10:13:44:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/20/2024 10:13:47:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/20/2024 10:13:50:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/20/2024 10:13:53:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/20/2024 10:13:56:Error: 28P01: пользователь "postgres" не прошёл проверку подлинности (по паролю)
+01/20/2024 10:14:07:Error: Failed to connect to 172.19.0.2:5432
+01/20/2024 10:14:12:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/20/2024 10:14:17:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/20/2024 10:14:22:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/20/2024 10:14:27:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/20/2024 10:14:32:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/20/2024 10:14:37:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/20/2024 10:14:42:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/20/2024 10:14:47:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/20/2024 10:14:52:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/20/2024 10:14:57:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/20/2024 10:15:02:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/20/2024 10:15:07:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/20/2024 10:15:12:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/20/2024 10:15:17:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/20/2024 10:15:22:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/20/2024 10:15:27:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/20/2024 10:15:32:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/20/2024 10:15:37:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/20/2024 10:15:42:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/20/2024 10:15:47:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/20/2024 10:15:52:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/20/2024 10:15:57:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/20/2024 10:16:02:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/20/2024 10:16:07:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/20/2024 10:16:12:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/20/2024 10:16:17:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/20/2024 10:16:22:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/20/2024 10:16:27:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/20/2024 10:16:32:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/20/2024 10:16:37:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/20/2024 10:16:42:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/20/2024 10:16:47:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/20/2024 10:16:52:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/20/2024 10:16:57:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/20/2024 10:17:02:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/20/2024 10:17:07:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/20/2024 10:17:12:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/20/2024 10:17:17:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/20/2024 10:17:22:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/20/2024 10:17:27:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/20/2024 10:17:32:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/20/2024 10:17:37:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/20/2024 10:17:42:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/20/2024 10:17:47:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/20/2024 10:17:52:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/20/2024 10:17:57:Error: 57P01: закрытие подключения по команде администратора
+01/20/2024 10:18:10:Error: Resource temporarily unavailable
+01/20/2024 10:18:23:Error: Resource temporarily unavailable
+01/20/2024 10:18:36:Error: Resource temporarily unavailable
+01/20/2024 10:18:49:Error: Resource temporarily unavailable
+01/20/2024 10:19:02:Error: Resource temporarily unavailable
+01/20/2024 10:19:15:Error: Resource temporarily unavailable
+01/20/2024 10:19:28:Error: Resource temporarily unavailable
+01/20/2024 10:19:41:Error: Resource temporarily unavailable
+01/20/2024 10:19:54:Error: Resource temporarily unavailable
+01/20/2024 10:20:07:Error: Resource temporarily unavailable
+01/20/2024 10:20:20:Error: Resource temporarily unavailable
+01/20/2024 10:20:33:Error: Resource temporarily unavailable
+01/20/2024 10:20:46:Error: Resource temporarily unavailable
+01/20/2024 10:20:59:Error: Resource temporarily unavailable
+01/20/2024 10:21:12:Error: Resource temporarily unavailable
+01/20/2024 10:21:25:Error: Resource temporarily unavailable
+01/20/2024 10:21:38:Error: Resource temporarily unavailable
+01/20/2024 10:21:51:Error: Resource temporarily unavailable
+01/20/2024 10:22:04:Error: Resource temporarily unavailable
+01/20/2024 10:22:17:Error: Resource temporarily unavailable
+01/20/2024 10:22:30:Error: Resource temporarily unavailable
+01/20/2024 10:22:43:Error: Resource temporarily unavailable
+01/20/2024 10:22:56:Error: Resource temporarily unavailable
+01/20/2024 10:23:09:Error: Resource temporarily unavailable
+01/20/2024 10:23:22:Error: Resource temporarily unavailable
+01/20/2024 10:23:35:Error: Resource temporarily unavailable
+01/20/2024 10:23:48:Error: Resource temporarily unavailable
+01/20/2024 10:24:01:Error: Resource temporarily unavailable
+01/20/2024 10:24:14:Error: Resource temporarily unavailable
+01/20/2024 10:24:27:Error: Resource temporarily unavailable
+01/20/2024 10:24:40:Error: Resource temporarily unavailable
+01/20/2024 10:24:53:Error: Resource temporarily unavailable
+01/20/2024 10:25:06:Error: Resource temporarily unavailable
+01/20/2024 10:25:19:Error: Resource temporarily unavailable
+01/20/2024 10:25:32:Error: Resource temporarily unavailable
+01/20/2024 10:25:45:Error: Resource temporarily unavailable
+01/20/2024 10:25:58:Error: Resource temporarily unavailable
+01/20/2024 10:26:11:Error: Resource temporarily unavailable
+01/20/2024 10:26:24:Error: Resource temporarily unavailable
+01/20/2024 10:26:37:Error: Resource temporarily unavailable
+01/20/2024 10:26:50:Error: Resource temporarily unavailable
+01/20/2024 10:27:03:Error: Resource temporarily unavailable
+01/20/2024 10:27:16:Error: Resource temporarily unavailable
+01/20/2024 10:27:29:Error: Resource temporarily unavailable
+01/20/2024 10:27:42:Error: Resource temporarily unavailable
+01/20/2024 10:27:55:Error: Resource temporarily unavailable
+01/20/2024 10:28:08:Error: Resource temporarily unavailable
+01/20/2024 10:28:21:Error: Resource temporarily unavailable
+01/20/2024 10:28:34:Error: Resource temporarily unavailable
+01/20/2024 10:28:47:Error: Resource temporarily unavailable
+01/20/2024 10:29:00:Error: Resource temporarily unavailable
+01/20/2024 10:29:13:Error: Resource temporarily unavailable
+01/20/2024 10:29:41:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/20/2024 10:29:45:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/20/2024 10:29:50:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/20/2024 10:29:55:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/20/2024 10:30:00:PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/20/2024 10:30:05:Error: 57P01: закрытие подключения по команде администратора
+01/20/2024 10:30:15:Task is paused
+01/20/2024 10:30:18:Error: Resource temporarily unavailable
+01/20/2024 10:30:20:Task is paused
+01/20/2024 10:30:23:Error: Resource temporarily unavailable
+01/20/2024 10:30:25:Task is paused
+01/20/2024 10:30:28:Error: Resource temporarily unavailable
+01/20/2024 10:30:30:Task is paused
+01/20/2024 10:30:33:Error: Resource temporarily unavailable
+01/20/2024 10:30:35:Task is paused
+01/20/2024 10:30:38:Error: Resource temporarily unavailable
+01/20/2024 10:30:40:Task is paused
+01/20/2024 10:30:43:Error: Resource temporarily unavailable
+01/20/2024 10:30:45:Task is paused
+01/20/2024 10:30:48:Error: Resource temporarily unavailable
+01/20/2024 10:30:50:Task is paused
+01/20/2024 10:30:53:Error: Resource temporarily unavailable
+01/20/2024 10:30:55:Task is paused
+01/20/2024 10:30:58:Error: Resource temporarily unavailable
+01/20/2024 10:31:00:Task is paused
+01/20/2024 10:31:03:Error: Resource temporarily unavailable
+01/20/2024 10:31:05:Task is paused
+01/20/2024 10:31:08:Error: Resource temporarily unavailable
+01/20/2024 10:31:10:Task is paused
+01/20/2024 10:31:13:Error: Resource temporarily unavailable
+01/20/2024 10:31:15:Task is paused
+01/20/2024 10:31:18:Error: Resource temporarily unavailable
+01/20/2024 10:31:20:Task is paused
+01/20/2024 10:31:23:Error: Resource temporarily unavailable
+01/20/2024 10:31:25:Task is paused
+01/20/2024 10:31:28:Error: Resource temporarily unavailable
+01/20/2024 10:31:30:Task is paused
+01/20/2024 10:31:33:Error: Resource temporarily unavailable
+01/20/2024 10:31:35:Task is paused
+01/20/2024 10:31:38:Error: Resource temporarily unavailable
+01/20/2024 10:31:40:Task is paused
+01/20/2024 10:31:43:Error: Resource temporarily unavailable
+01/20/2024 10:31:45:Task is paused
+01/20/2024 10:31:48:Error: Resource temporarily unavailable
+01/20/2024 10:31:50:Task is paused
+01/20/2024 10:31:53:Error: Resource temporarily unavailable
+01/20/2024 10:31:55:Task is paused
+01/20/2024 10:31:58:Error: Resource temporarily unavailable
+01/20/2024 10:32:00:Task is paused
+01/20/2024 10:32:03:Error: Resource temporarily unavailable
+01/20/2024 10:32:05:Task is paused
+01/20/2024 10:32:08:Error: Resource temporarily unavailable
+01/20/2024 10:32:10:Task is paused
+01/20/2024 10:32:13:Error: Resource temporarily unavailable
+01/20/2024 10:32:15:Task is paused
+01/20/2024 10:32:18:Error: Resource temporarily unavailable
+01/20/2024 10:32:20:Task is paused
+01/20/2024 10:32:23:Error: Resource temporarily unavailable
+01/20/2024 10:32:25:Task is paused
+01/20/2024 10:32:28:Error: Resource temporarily unavailable
+01/20/2024 10:32:30:Task is paused
+01/20/2024 10:32:33:Error: Resource temporarily unavailable
+01/20/2024 10:32:35:Task is paused
+01/20/2024 10:32:38:Error: Resource temporarily unavailable
+01/20/2024 10:32:40:Task is paused
+01/20/2024 10:32:43:Error: Resource temporarily unavailable
+01/20/2024 10:32:45:Task is paused
+01/20/2024 10:32:48:Error: Resource temporarily unavailable
+01/20/2024 10:32:50:Task is paused
+01/20/2024 10:32:53:Error: Resource temporarily unavailable
+01/20/2024 10:32:55:Task is paused
+01/20/2024 10:32:58:Error: Resource temporarily unavailable
+01/20/2024 10:33:00:Task is paused
+01/20/2024 10:33:03:Error: Resource temporarily unavailable
+01/20/2024 10:33:05:Task is paused
+01/20/2024 10:33:08:Error: Resource temporarily unavailable
+01/20/2024 10:33:10:Task is paused
+01/20/2024 10:33:13:Error: Resource temporarily unavailable
+01/20/2024 10:33:15:Task is paused
+01/20/2024 10:33:18:Error: Resource temporarily unavailable
+01/20/2024 10:33:20:Task is paused
+01/20/2024 10:33:23:Error: Resource temporarily unavailable
+01/20/2024 10:33:25:Task is paused
+01/20/2024 10:33:28:Error: Resource temporarily unavailable
+01/20/2024 10:33:30:Task is paused
+01/20/2024 10:33:33:Error: Resource temporarily unavailable
+01/20/2024 10:33:35:Task is paused
+01/20/2024 10:33:38:Error: Resource temporarily unavailable
+01/20/2024 10:33:40:Task is paused
+01/20/2024 10:33:43:Error: Resource temporarily unavailable
+01/20/2024 10:33:45:Task is paused
+01/20/2024 10:33:48:Error: Resource temporarily unavailable
+01/20/2024 10:33:50:Task is paused
+01/20/2024 10:33:53:Error: Resource temporarily unavailable
+01/20/2024 10:33:55:Task is paused
+01/20/2024 10:33:58:Error: Resource temporarily unavailable
+01/20/2024 10:34:00:Task is paused
+01/20/2024 10:34:03:Error: Resource temporarily unavailable
+01/20/2024 10:34:05:Task is paused
+01/20/2024 10:34:08:Error: Resource temporarily unavailable
+01/20/2024 10:34:10:Task is paused
+01/20/2024 10:34:13:Error: Resource temporarily unavailable
+01/20/2024 10:34:15:Task is paused
+01/20/2024 10:34:18:Error: Resource temporarily unavailable
+01/20/2024 10:34:20:Task is paused
+01/20/2024 10:34:23:Error: Resource temporarily unavailable
+01/20/2024 10:34:25:Task is paused
+01/20/2024 10:34:28:Error: Resource temporarily unavailable
+01/20/2024 10:34:30:Task is paused
+01/20/2024 10:34:33:Error: Resource temporarily unavailable
+01/20/2024 10:34:35:Task is paused
+01/20/2024 10:34:38:Error: Resource temporarily unavailable
+01/20/2024 10:34:40:Task is paused
+01/20/2024 10:34:43:Error: Resource temporarily unavailable
+01/20/2024 10:34:45:Task is paused
+01/20/2024 10:34:48:Error: Resource temporarily unavailable
+01/20/2024 10:34:50:Task is paused
+01/20/2024 10:34:53:Error: Resource temporarily unavailable
+01/20/2024 10:34:55:Task is paused
+01/20/2024 10:34:58:Error: Resource temporarily unavailable
+01/20/2024 10:35:00:Task is paused
+01/20/2024 10:35:03:Error: Resource temporarily unavailable
+01/20/2024 10:35:05:Task is paused
+01/20/2024 10:35:08:Error: Resource temporarily unavailable
+01/20/2024 10:35:10:Task is paused
+01/20/2024 10:35:13:Error: Resource temporarily unavailable
+01/20/2024 10:35:15:Task is paused
+01/20/2024 10:35:18:Error: Resource temporarily unavailable
+01/20/2024 10:35:20:Task is paused
+01/20/2024 10:35:23:Error: Resource temporarily unavailable
+01/20/2024 10:35:25:Task is paused
+01/20/2024 10:35:28:Error: Resource temporarily unavailable
+01/20/2024 10:35:30:Task is paused
+01/20/2024 10:35:33:Error: Resource temporarily unavailable
+01/20/2024 10:35:35:Task is paused
+01/20/2024 10:35:38:Error: Resource temporarily unavailable
+01/20/2024 10:35:40:Task is paused
+01/20/2024 10:35:43:Error: Resource temporarily unavailable
+01/20/2024 10:35:45:Task is paused
+01/20/2024 10:35:48:Error: Resource temporarily unavailable
+01/20/2024 10:35:50:Task is paused
+01/20/2024 10:35:53:Error: Resource temporarily unavailable
+01/20/2024 10:35:55:Task is paused
+01/20/2024 10:35:58:Error: Resource temporarily unavailable
+01/20/2024 10:36:00:Task is paused
+01/20/2024 10:36:03:Error: Resource temporarily unavailable
+01/20/2024 10:36:05:Task is paused
+01/20/2024 10:36:08:Error: Resource temporarily unavailable
+01/20/2024 10:36:10:Task is paused
+01/20/2024 10:36:13:Error: Resource temporarily unavailable
+01/20/2024 10:36:15:Task is paused
+01/20/2024 10:36:18:Error: Resource temporarily unavailable
+01/20/2024 10:36:20:Task is paused
